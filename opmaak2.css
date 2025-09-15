@@ -1,7 +1,17 @@
 body 
-{
-  background-color: rgb(69, 38, 103);
+
+h1 {
+  background-color: green;
 }
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+}
+
 
 h1 {
   color: rgb(109, 235, 13);
