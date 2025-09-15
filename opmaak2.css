@@ -1,19 +1,6 @@
 body 
 
 h1 {
-  background-color: rgb(18, 186, 18);
-}
-
-div {
-  background-color: rgb(69, 48, 121);
-}
-
-p {
-  background-color: yellow;
-}
-
-
-h1 {
   color: rgb(109, 235, 13);
   margin-left: 20px;
 }
