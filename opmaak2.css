@@ -32,4 +32,6 @@ ul li a:hover {
   background-color: #040dbb;
 }
 
-
+img {
+  border-radius: 8px;
+}
