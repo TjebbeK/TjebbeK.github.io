@@ -4,7 +4,7 @@ body
 }
 
 h1 {
-  color: hsl(257, 50, 27);
+  color: #362267;
   margin-left: 20px;
 }
 
@@ -24,7 +24,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: hsl(257, 50%, 27%);
+  background-color: #362267;
 }
 
 ul li {
