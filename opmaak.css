@@ -4,16 +4,17 @@ body
 }
 
 h1 {
-  color: rgb(0, 0, 0);
+  color: hsl(257, 50, 27);
   margin-left: 20px;
 }
+
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #352267;
+  background-color: hsl(257, 50%, 27%);
 }
 
 ul li {
