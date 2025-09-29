@@ -48,3 +48,9 @@ ul li a {
 ul li a:hover {
   background-color: #040dbb;
 }
+
+img {
+border-radius: 0px;
+margin-left: 50px;
+}
+
