@@ -1,7 +1,13 @@
 body 
 {
+background-image: url(kleurmodellen.jpg);
+background-repeat: no-repeat;
+background-size: cover;
   background-color: rgb(92, 46, 157);  
 }
+
+
+
 
 h1 {                                        /*Tussen deze twee haakjes ga ik de informatie geven overe de stukjes tekst die zijn geschreven in h1.*/
   color: rgb(0, 0, 0);                      /*Dit geeft aan welke kleur de tekst in h1 moet zijn gescreven*/
