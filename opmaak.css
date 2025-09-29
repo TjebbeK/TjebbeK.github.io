@@ -3,9 +3,9 @@ body
   background-color: rgb(151, 32, 40);
 }
 
-h1 {
-  color: #362267;
-  margin-left: 20px;
+h1 {                                                           /*Tussen deze twee haakjes ga ik de informatie geven overe de stukjes tekst die zijn geschreven in h1.*/
+  color: #362267;                                            /*Dit geeft aan welke kleur de tekst in h1 moet zijn gescreven*/
+  margin-left: 20px;                                             /*Dit zegt hoeveel pixels er aan de linker kant van (h1) komen.*/
 }
 
 h2 {
