@@ -1,5 +1,8 @@
 body 
 {
+background-image: url(DATA.jpg);
+background-repeat: no-repeat;
+background-size: cover;
   background-color: rgb(255, 255, 255);
 }
 
