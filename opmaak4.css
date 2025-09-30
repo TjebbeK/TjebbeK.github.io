@@ -1,0 +1,53 @@
+body 
+{
+  background-color: rgb(151, 32, 40);
+}
+
+h1 {                                                           /*Tussen deze twee haakjes ga ik de informatie geven overe de stukjes tekst die zijn geschreven in h1.*/
+  color: #000000;                                            /*Dit geeft aan welke kleur de tekst in h1 moet zijn gescreven*/
+  margin-left: 20px;                                             /*Dit zegt hoeveel pixels er aan de linker kant van (h1) komen.*/
+}
+
+h2 {
+color: rgb(255, 255, 255);
+margin-left: 20px;
+}
+
+h3 {
+color: black;
+margin-left: 20px;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #f500c4;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #040dbb;
+}
+
+img {
+border-radius: 10px;
+margin-left: 50px;
+}
+
+
+
+
