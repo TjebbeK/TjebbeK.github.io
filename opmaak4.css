@@ -4,17 +4,17 @@ body
 }
 
 h1 {                                                           /*Tussen deze twee haakjes ga ik de informatie geven overe de stukjes tekst die zijn geschreven in h1.*/
-  color: #000000;                                            /*Dit geeft aan welke kleur de tekst in h1 moet zijn gescreven*/
+  color: rgb(245, 0, 196);                                            /*Dit geeft aan welke kleur de tekst in h1 moet zijn gescreven*/
   margin-left: 20px;                                             /*Dit zegt hoeveel pixels er aan de linker kant van (h1) komen.*/
 }
 
 h2 {
-color: rgb(255, 255, 255);
+color: rgb(245, 0, 196);
 margin-left: 20px;
 }
 
 h3 {
-color: black;
+color: rgb(255, 255, 255);
 margin-left: 20px;
 }
 
@@ -24,7 +24,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #f500c4;
+  background-color: rgb(245, 0, 196);
 }
 
 ul li {
