@@ -1,9 +1,6 @@
 body 
 {
-background-image: url(DATA.jpg);
-background-repeat: no-repeat;
-background-size: cover;
-  background-color: rgb(255, 255, 255);
+  background-color: rgb(65, 64, 64);
 }
 
 h1 {                                                           /*Tussen deze twee haakjes ga ik de informatie geven overe de stukjes tekst die zijn geschreven in h1.*/
