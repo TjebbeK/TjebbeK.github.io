@@ -1,7 +1,7 @@
-body 
+body                                           /*Alles wat hiertussen staat zorgt voor de opmaak (css) van de pagina*/
 {
   background-color: rgb(65, 64, 64);
-}
+}                                                            /*Dit zorgt voor de achtergrond kleur op de pagina*/
 
 h1 {                                                           /*Tussen deze twee haakjes ga ik de informatie geven overe de stukjes tekst die zijn geschreven in h1.*/
   color: rgb(245, 0, 196);                                            /*Dit geeft aan welke kleur de tekst in h1 moet zijn gescreven*/
