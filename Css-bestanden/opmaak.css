@@ -1,6 +1,6 @@
-body 
+body                 /*Alles wat hiertussen staat zorgt voor de opmaak (css) van de pagina*/
 {
-  background-color: rgb(151, 32, 40);
+  background-color: rgb(151, 32, 40);                /*Dit geeft de kleur van de achtergrond van de pagina aan*/
 }
 
 h1 {                                                           /*Tussen deze twee haakjes ga ik de informatie geven overe de stukjes tekst die zijn geschreven in h1.*/
@@ -8,14 +8,14 @@ h1 {                                                           /*Tussen deze twe
   margin-left: 20px;                                             /*Dit zegt hoeveel pixels er aan de linker kant van (h1) komen.*/
 }
 
-h2 {
-color: rgb(255, 255, 255);
-margin-left: 20px;
+h2 {                                                 /*Tussen deze twee haakjes ga ik de informatie geven overe de stukjes tekst die zijn geschreven in h2.*/
+color: rgb(255, 255, 255);                            /*Dit geeft aan welke kleur de tekst in h2 moet zijn gescreven*/
+margin-left: 20px;                                       /*Dit zegt hoeveel pixels er aan de linker kant van (h2) komen.*/
 }
 
-h3 {
-color: black;
-margin-left: 20px;
+h3 {                                                  /*Tussen deze twee haakjes ga ik de informatie geven overe de stukjes tekst die zijn geschreven in h3.*/
+color: black;                                       /*Dit geeft aan welke kleur de tekst in h3 moet zijn gescreven*/
+margin-left: 20px;                                 /*Dit zegt hoeveel pixels er aan de linker kant van (h3) komen.*/
 }
 
 
