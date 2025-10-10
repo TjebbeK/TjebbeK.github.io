@@ -1,13 +1,10 @@
 body 
 {
-background-image: url(/plaatjes!/kleurmodellen.jpg);
+background-image: url(/plaatjes!/kleurmodellen.jpg);                          /*Dit zegt dat de achtergrond geen kleur is, maar ik heb een plaatje ingevoegd.*/
 background-repeat: no-repeat;
 background-size: cover;
   background-color: rgb(92, 46, 157);  
 }
-
-
-
 
 h1 {                               
   color: rgb(255, 255, 255);                   
