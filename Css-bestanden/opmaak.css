@@ -40,12 +40,12 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #040dbb;
+  background-color: #040dbb;                                          /*Dit is de kleur die je krijgt als je met je muis over de woorden in de balk gaat*/
 }
 
-img {
-border-radius: 10px;
-margin-left: 50px;
+img {                                               /*Hiertussen komt de informatie over de plaatjes*/
+border-radius: 10px;                                /*Dit maakt de hoeken van de plaatjes rond*/
+margin-left: 50px;                                   /*De zegt hoeveel pixels er aan de linker kant moeten komen van het plaatje. Je kan bijvoorbeeld ook zeggen hoeveel pixels er aan de boven/onderkant moeten komen.*/
 }
 
 
