@@ -19,24 +19,24 @@ margin-left: 20px;                                 /*Dit zegt hoeveel pixels er 
 }
 
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #362267;
+ul {                                    /*Alles tussen deze twee haakjes geeft informatie over de balk  aan de bovenkant van de pagina*/
+  list-style-type: none;                     /*Dit verwijdert de opsommingstekens (bolletjes-cijfers)*/
+  margin: 0;                                    /*Dit verwijdert de buitenruimte rondom de tekst (balk).*/
+  padding: 0;                                       /*Dit verwijdert de binnenruimte rondom de tekst (balk)*/
+  overflow: hidden;                                     /*Dit verbergt alles wat buiten de tekst (balk) valt*/
+  background-color: #362267;                     /*Dit geeft de kleur aan van de balk */
 }
 
 ul li {
-  float: left;
+  float: left;                       /*Dit zorgt ervoor dat elk lijstitem (woord in de balk) naar links "zweeft", waardoor ze naast elkaar komen te staan in plaats van onder elkaar.*/
 }
 
-ul li a {
-  display: block;
-  color: rgb(255, 255, 255);
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+ul li a {                                    /*Alles tussen deze twee haakjes geeft informatie over de balk  aan de bovenkant van de pagina*/
+  display: block;                                /*Dit geeft aan dat de balk een blok is en van de ene naar de andere kant loopt*/
+  color: rgb(255, 255, 255);                    /*Dit zegt welke kleur de tekst moet zijn die in de balk staat*/
+  text-align: center;                                /*Dit zorgt ervoor dat de tekst in de balk in het midden staat en niet aan de boven-/onderkant*/
+  padding: 14px 16px;                                    /*Dit zegt hoeveel ruimte (pixels) er tussen de stukjes tekst komt te staan*/
+  text-decoration: none;                                    /*Dit zorgt ervoor dat er geen decoratie op de tekst komt */
 }
 
 ul li a:hover {
