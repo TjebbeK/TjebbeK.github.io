@@ -2,8 +2,7 @@ body
 {
 background-image: url(/plaatjes!/kleurmodellen.jpg);                          /*Dit zegt dat de achtergrond geen kleur is, maar ik heb een plaatje ingevoegd.*/
 background-repeat: no-repeat;
-background-size: cover;
-  background-color: rgb(92, 46, 157);  
+background-size: cover;                                                   /*Dit zegt dat het plaatje over de hele achterkant (cover) moet komen en niet over alleen een deel.*/                                
 }
 
 h1 {                               
