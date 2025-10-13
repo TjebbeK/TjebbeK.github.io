@@ -50,3 +50,12 @@ border-radius: 0px;
 margin-left: 50px;
 }
 
+footer {
+  position: sticky;
+  left: 0;
+  bottom: 0px;
+  width: 100%;
+  background-color: rgb(54, 34, 103);
+  color: white;
+  text-align: center;
+}
