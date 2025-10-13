@@ -53,12 +53,12 @@ img {
   border-radius: 0px;
 }
 
-.footer {
+.footer {                            /*Dit geeft informatie over de footer, tussen deze twee haakjes*/
   position: sticky;
-  left: 0;
-  bottom: 0px;
-  width: 100%;
-  background-color: rgb(191, 255, 0);
-  color: rgb(0, 0, 0);
-  text-align: center;
+  left: 0;                         /*Het geeft de zijkant van de balk (links/rechts)*/
+  bottom: 0px;                      /*Dit geeft de zijkant van de balk ook weer (onder/boven)*/
+  width: 100%;                           /*De breedte is 100%, dus van de ene naa de andere kant*/
+  background-color: rgb(191, 255, 0);              /*Geeft de kleur van de footer achtergrond*/
+  color: rgb(0, 0, 0);                               /*Dit is de kleur van de tekst in de footer*/
+  text-align: center;                            /*Dit zorgt ervoor dat de tekst in het midden staat en niet aan de linker / rechter kant */
 }
