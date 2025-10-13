@@ -44,7 +44,7 @@ ul li a:hover {
 }
 
 img {                                               /*Hiertussen komt de informatie over de plaatjes*/
-border-radius: 10px;                                /*Dit maakt de hoeken van de plaatjes rond*/
+border-radius: -60px;                                /*Dit maakt de hoeken van de plaatjes rond*/
 margin-left: 50px;                                   /*De zegt hoeveel pixels er aan de linker kant moeten komen van het plaatje. Je kan bijvoorbeeld ook zeggen hoeveel pixels er aan de boven/onderkant moeten komen.*/
 }
 
