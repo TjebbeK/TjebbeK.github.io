@@ -48,7 +48,7 @@ border-radius: -60px;                                /*Dit maakt de hoeken van d
 margin-left: 50px;                                   /*De zegt hoeveel pixels er aan de linker kant moeten komen van het plaatje. Je kan bijvoorbeeld ook zeggen hoeveel pixels er aan de boven/onderkant moeten komen.*/
 }
 
-footer {
+.footer {
   position: sticky;
   left: 0;
   bottom: 0px;
