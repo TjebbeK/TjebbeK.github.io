@@ -48,12 +48,12 @@ border-radius: 10px;                                /*Dit maakt de hoeken van de
 margin-left: 50px;                                   /*De zegt hoeveel pixels er aan de linker kant moeten komen van het plaatje. Je kan bijvoorbeeld ook zeggen hoeveel pixels er aan de boven/onderkant moeten komen.*/
 }
 
-.footer {
-  position: sticky;
-  left: 0;
-  bottom: 0px;
-  width: 100%;
-  background-color: rgb(191, 255, 0);
-  color: rgb(0, 0, 0);
-  text-align: center;
+.footer {                                     /*Tussen deze twee haakjes, staat de informatie over de footer*/
+  position: sticky;      
+  left: 0;                           /*Het geeft de zijkant van de balk (links/rechts)*/
+  bottom: 0px;                     /*Dit geeft de zijkant van de balk ook weer (onder/boven)*/
+  width: 100%;                      /*De breedte is 100%, dus van de ene naa de andere kant*/
+  background-color: rgb(191, 255, 0);       /*Geeft de kleur van de footer achtergrond*/
+  color: rgb(0, 0, 0);                     /*Dit is de kleur van de tekst in de footer*/
+  text-align: center;                           /*Dit zorgt ervoor dat de tekst in het midden staat en niet aan de linker / rechter kant */
 }
