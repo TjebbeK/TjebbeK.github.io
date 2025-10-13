@@ -24,7 +24,7 @@ ul {                                    /*Alles tussen deze twee haakjes geeft i
   margin: 0;                                    /*Dit verwijdert de buitenruimte rondom de tekst (balk).*/
   padding: 0;                                       /*Dit verwijdert de binnenruimte rondom de tekst (balk)*/
   overflow: hidden;                                     /*Dit verbergt alles wat buiten de tekst (balk) valt*/
-  background-color: #362267;                     /*Dit geeft de kleur aan van de balk */
+  background-color: rgb(54, 34, 103);                     /*Dit geeft de kleur aan van de balk */
 }
 
 ul li {
@@ -46,4 +46,14 @@ ul li a:hover {
 img {                                               /*Hiertussen komt de informatie over de plaatjes*/
 border-radius: 10px;                                /*Dit maakt de hoeken van de plaatjes rond*/
 margin-left: 50px;                                   /*De zegt hoeveel pixels er aan de linker kant moeten komen van het plaatje. Je kan bijvoorbeeld ook zeggen hoeveel pixels er aan de boven/onderkant moeten komen.*/
+}
+
+footer {
+  position: sticky;
+  left: 0;
+  bottom: 0px;
+  width: 100%;
+  background-color: rgb(54, 34, 103);
+  color: white;
+  text-align: center;
 }
